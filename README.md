@@ -35,3 +35,10 @@ ProtoEMU supports the following communication protocols (transports) for interac
 *   Recording of parameter values to an archive during an emulation session for subsequent analysis and printing.
 
 A complete description of the emulator is available in the **ProtoEMU User Guide** document.
+
+
+Change log
+=================
+
+ * [Version 1.0 change log (EN)](Changelog-EN.md)
+ * [Version 1.0 change log (RU)](Changelog-RU.md)
